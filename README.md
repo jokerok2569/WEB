@@ -3,8 +3,8 @@
 ### My name is Borya
  ![my photo](https://cdn-icons-png.flaticon.com/512/168/168723.png)
 
-** I'm a teacher**
-* test code:*
+**I'm a teacher**
+*Check my test code:*
 ```javascript
 let a = "Hello world!";
 alert(a);
