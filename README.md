@@ -8,6 +8,7 @@
 ```javascript
 let a = "Hello world!";
 alert(a);
+```
 
 Follow me:
 *[my instagram](https://instagram.com/urgodamn)
