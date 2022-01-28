@@ -11,5 +11,5 @@ alert(a);
 ```
 
 Follow me:
-*[my instagram](https://instagram.com/urgodamn)
-*[my youtube](https://youtube.com)
+* [my instagram](https://instagram.com/urgodamn)
+* [my youtube](https://youtube.com)
