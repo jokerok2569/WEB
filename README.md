@@ -1,7 +1,7 @@
 # TEST REPOSITORY
 
 ### My name is Borya
- ![my photo](https://www.flaticon.com/ru/free-icon/avatar_168724?related_id=168724&origin=pack)
+ ![my photo](https://cdn-icons-png.flaticon.com/512/168/168723.png)
 
 ### Учимся работать с:
 * GIT
